@@ -10,3 +10,9 @@
 4.Enter키로 추가 기능 구현하기
 
 5.Shift + Enter 줄바꿈 처리
+
+
+시연영상
+
+https://github.com/user-attachments/assets/fc47808f-ad70-452a-8b57-73a792f07c69
+
